@@ -109,8 +109,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-## About Me
-
 Hi there! I'm Zara Alam- an aspiring Data Analyst, passionate about turning raw, messy data into clear,actionable insights. This repository showcases my learning journey and hands-on projects as I build practical skills in data engineering and analytics.
 
 
